@@ -1,5 +1,5 @@
 {
-  "hash": "677c76242b98974d7d1d",
+  "hash": "4820e452f8f2aa4f20d9",
   "publicPath": "",
   "outputPath": "D:\\Project\\ReactJS\\nxt-wave\\dist",
   "assetsByChunkName": {
@@ -16,7 +16,7 @@
     {
       "type": "asset",
       "name": "./js/main.js",
-      "size": 341115,
+      "size": 341131,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
